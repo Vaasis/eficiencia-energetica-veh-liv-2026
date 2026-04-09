@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es-cl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- Fallback neutral (solo por si no carga JS) -->
+    <title>Consumo Vehicular</title>
+
+    <!-- Favicon / manifest (ajusta a tus archivos reales) -->
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <!-- <link rel="manifest" href="/site.webmanifest" /> -->
+    <!-- <meta name="theme-color" content="#0a5bd3" /> -->
+    <script type="module" crossorigin src="/assets/index-CD3l2lmT.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-DPdvCBJc.css">
+  </head>
+  <body>
+    <div id="root"></div>
+    <script src="/ckeditor-classic.js"></script>
+  </body>
+</html>
